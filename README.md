@@ -51,19 +51,20 @@ Apabila durasi parkir memiliki sisa menit, perhitungan biaya akan dibulatkan ke 
 ```text
 SistemParkir
 │
-├── src
-│   └── main
-│       └── java
-│           ├── com.mycompany.sistemparkir
-│           │   └── SistemParkir.java
-│           │
-│           └── model
-│               ├── Kendaraan.java
-│               ├── Mobil.java
-│               └── Motor.java
+├── Source Packages
+│   ├── com.mycompany.sistemparkir
+│   │   └── SistemParkir.java
+│   │
+│   └── model
+│       ├── Kendaraan.java
+│       ├── Mobil.java
+│       └── Motor.java
 │
-├── pom.xml
-└── README.md
+├── Test Packages
+├── Dependencies
+├── Java Dependencies
+└── Project Files
+
 ```
 
 ## 🏗️ Hierarki Class
