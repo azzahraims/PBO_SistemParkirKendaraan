@@ -37,7 +37,27 @@ Apabila durasi parkir memiliki sisa menit, perhitungan biaya akan dibulatkan ke 
 
 ---
 
-## 🏗️ Struktur dan Hierarki Class
+## 📁 Struktur Project
+
+```text
+SistemParkir
+│
+├── src
+│   └── main
+│       └── java
+│           ├── com.mycompany.sistemparkir
+│           │   └── SistemParkir.java
+│           │
+│           └── model
+│               ├── Kendaraan.java
+│               ├── Mobil.java
+│               └── Motor.java
+│
+├── pom.xml
+└── README.md
+```
+
+## 🏗️ Hierarki Class
 
 Program terdiri dari empat class utama:
 
@@ -144,28 +164,6 @@ Total Biaya : Rp10000
 ### 🏍️ Running Program Motor
 
 ![Running Program Motor](screenshot-motor.png)
-
----
-
-## 📁 Struktur Project
-
-```text
-SistemParkir
-│
-├── src
-│   └── main
-│       └── java
-│           ├── com.mycompany.sistemparkir
-│           │   └── SistemParkir.java
-│           │
-│           └── model
-│               ├── Kendaraan.java
-│               ├── Mobil.java
-│               └── Motor.java
-│
-├── pom.xml
-└── README.md
-```
 
 ---
 
