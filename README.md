@@ -44,18 +44,7 @@ Apabila durasi parkir memiliki sisa menit, perhitungan biaya akan dibulatkan ke 
 
 Program terdiri dari empat class utama:
 
-```text
-                  Kendaraan
-                 (Superclass)
-                  /       \
-                 /         \
-              Mobil       Motor
-           (Subclass)   (Subclass)
-
-
-               SistemParkir
-                Main Class
-```
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/526b5b5b-0546-41dd-b118-4ee7f4705216" />
 
 ### Penjelasan Class
 
