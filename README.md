@@ -126,49 +126,21 @@ super(nomorPlat, jamMasuk, menitMasuk, jamKeluar, menitKeluar);
 
 ---
 
-## 💻 Contoh Output Program
-
-```text
-==================================
- SISTEM MANAJEMEN PARKIR KENDARAAN
-==================================
-Pilih Jenis Kendaraan:
-1. Mobil
-2. Motor
-Pilihan : 1
-
-Nomor Plat : BK1234ABC
-Jam Masuk : 9
-Menit Masuk : 30
-Jam Keluar : 11
-Menit Keluar : 15
-
-=== HASIL PARKIR ===
-Jenis Kendaraan : Mobil
-Nomor Plat : BK1234ABC
-Waktu Masuk : 09.30
-Waktu Keluar : 11.15
-Durasi Parkir : 1 jam 45 menit
-Tarif Per Jam : Rp5000
-Total Biaya : Rp10000
-```
-
----
-
 ## 📷 Screenshot Running Program
 
 ### 🚗 Running Program Mobil
 
-![Running Program Mobil](screenshot-mobil.png)
+<img width="202" height="155" alt="image" src="https://github.com/user-attachments/assets/f3e6ff18-c4a8-471c-88ef-764b3fff5915" />
+Program menampilkan pilihan jenis kendaraan, yaitu Mobil dan Motor. Pengguna kemudian memasukkan nomor plat serta waktu masuk dan keluar yang digunakan untuk menghitung durasi parkir.
+
+<img width="178" height="107" alt="image" src="https://github.com/user-attachments/assets/12c7904d-4e85-420e-9d42-8a8141d0fc70" />
+Program menampilkan hasil perhitungan berupa jenis kendaraan, nomor plat, waktu masuk dan keluar, durasi parkir, tarif per jam, serta total biaya. Pada contoh tersebut, Mobil parkir selama 1 jam 30 menit dan dikenakan biaya sebesar Rp10.000
+
 
 ### 🏍️ Running Program Motor
 
-![Running Program Motor](screenshot-motor.png)
+<img width="199" height="161" alt="image" src="https://github.com/user-attachments/assets/73fcff76-a244-46be-9e05-d42e2b2fd88f" />
+Program menampilkan pilihan jenis kendaraan dan pengguna memilih 2 (Motor). Pengguna kemudian memasukkan nomor plat serta waktu masuk dan keluar yang digunakan untuk menghitung durasi parkir.
 
----
-
-## 📝 Kesimpulan
-
-Program **Sistem Manajemen Parkir Kendaraan** menerapkan konsep Pemrograman Berorientasi Objek terutama **inheritance**. Class `Mobil` dan `Motor` mewarisi atribut serta method dari class `Kendaraan`, sedangkan class `SistemParkir` digunakan untuk menjalankan program dan menerima input dari pengguna.
-
-Penerapan inheritance membuat struktur program lebih terorganisasi karena atribut dan method yang digunakan bersama dapat ditempatkan pada superclass dan digunakan kembali oleh subclass.
+<img width="175" height="106" alt="image" src="https://github.com/user-attachments/assets/946b757d-298f-4779-823f-0d7089a96493" />
+Program menampilkan hasil perhitungan berupa jenis kendaraan, nomor plat, waktu masuk dan keluar, durasi parkir, tarif per jam, serta total biaya. Pada contoh tersebut, Motor parkir selama 1 jam 45 menit dan dikenakan biaya sebesar Rp4.000.
