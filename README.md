@@ -19,7 +19,7 @@
 
 # 🚗 Sistem Manajemen Parkir Kendaraan
 
-Program Sistem Manajemen Parkir Kendaraan merupakan aplikasi berbasis Command Line Interface (CLI) yang dibuat menggunakan bahasa pemrograman Java. Program ini digunakan untuk mencatat data kendaraan, menghitung durasi parkir, serta menentukan biaya parkir berdasarkan jenis kendaraan dan lama waktu parkir.
+Program Sistem Manajemen Parkir Kendaraan merupakan program berbasis Command Line Interface (CLI) yang dibuat menggunakan bahasa pemrograman Java. Program ini digunakan untuk mencatat data kendaraan, menghitung durasi parkir, serta menentukan biaya parkir berdasarkan jenis kendaraan dan lama waktu parkir.
 
 ---
 
