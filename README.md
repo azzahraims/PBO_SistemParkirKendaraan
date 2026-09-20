@@ -1,16 +1,26 @@
+## 👤 Identitas Mahasiswa
+
+<table>
+  <tr>
+    <td><b>Nama</b></td>
+    <td>Az-Zahra Imsawati Sugianto</td>
+  </tr>
+  <tr>
+    <td><b>NIM</b></td>
+    <td>2509116062</td>
+  </tr>
+  <tr>
+    <td><b>Mata Kuliah</b></td>
+    <td>Pemrograman Berorientasi Objek</td>
+  </tr>
+</table>
+
+---
+
 # 🚗 Sistem Manajemen Parkir Kendaraan
 
 Program Sistem Manajemen Parkir Kendaraan merupakan aplikasi berbasis Command Line Interface (CLI) yang dibuat menggunakan bahasa pemrograman Java. Program ini digunakan untuk mencatat data kendaraan, menghitung durasi parkir, serta menentukan biaya parkir berdasarkan jenis kendaraan dan lama waktu parkir.
 
----
-
-## 👤 Identitas Mahasiswa
-
-| Keterangan ||
-|---|---|
-| **Nama** | Az-Zahra Imsawati Sugianto |
-| **NIM** | 2509116062 |
-| **Mata Kuliah** | Pemrograman Berorientasi Objek |
 ---
 
 ## 📌 Deskripsi Studi Kasus
