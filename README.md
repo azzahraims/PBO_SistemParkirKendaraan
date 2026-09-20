@@ -106,8 +106,6 @@ super(nomorPlat, jamMasuk, menitMasuk, jamKeluar, menitKeluar);
 
 ---
 
----
-
 ## 💻 Contoh Output Program
 
 ```text
