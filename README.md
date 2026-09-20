@@ -8,18 +8,15 @@ Program **Sistem Manajemen Parkir Kendaraan** merupakan aplikasi berbasis **Comm
 
 | Keterangan | Data |
 |---|---|
-| **Nama** | Nama Kamu |
-| **NIM** | NIM Kamu |
+| **Nama** | Az-Zahra Imsawati Sugianto |
+| **NIM** | 2509116062 |
 | **Mata Kuliah** | Pemrograman Berorientasi Objek |
-| **Bahasa Pemrograman** | Java |
 
 ---
 
 ## 📌 Deskripsi Studi Kasus
 
-Studi kasus yang dipilih adalah **Sistem Manajemen Parkir Kendaraan**. Program ini digunakan untuk mencatat dan menghitung biaya parkir berdasarkan jenis kendaraan dan lama waktu parkir.
-
-Pengguna dapat memilih dua jenis kendaraan, yaitu **Mobil** atau **Motor**. Setelah memilih jenis kendaraan, pengguna memasukkan:
+Tema yang dipilih adalah **Sistem Manajemen Parkir Kendaraan**. Program ini digunakan untuk mencatat dan menghitung biaya parkir berdasarkan jenis kendaraan dan lama waktu parkir. Pengguna dapat memilih dua jenis kendaraan, yaitu **Mobil** atau **Motor**. Setelah memilih jenis kendaraan, pengguna memasukkan:
 
 - Nomor plat kendaraan
 - Jam masuk
@@ -101,28 +98,8 @@ super(nomorPlat, jamMasuk, menitMasuk, jamKeluar, menitKeluar);
 
 ## ⚙️ Alur Program
 
-Alur kerja program adalah sebagai berikut:
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/a8bb747d-bb72-4bee-a7a8-cee556fb3ad8" />
 
-```text
-Mulai
-  ↓
-Pilih Jenis Kendaraan
-  ↓
-Mobil / Motor
-  ↓
-Masukkan Nomor Plat
-  ↓
-Masukkan Waktu Masuk
-  ↓
-Masukkan Waktu Keluar
-  ↓
-Hitung Durasi Parkir
-  ↓
-Hitung Biaya Parkir
-  ↓
-Tampilkan Hasil
-  ↓
-Selesai
 ```
 
 Jika pengguna memilih **1**, program akan membuat objek dari class `Mobil`.
