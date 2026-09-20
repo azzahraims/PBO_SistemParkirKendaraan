@@ -6,7 +6,7 @@ Program Sistem Manajemen Parkir Kendaraan merupakan aplikasi berbasis Command Li
 
 ## 👤 Identitas Mahasiswa
 
-| Nama | rara|
+| Keterangan ||
 |---|---|
 | **Nama** | Az-Zahra Imsawati Sugianto |
 | **NIM** | 2509116062 |
