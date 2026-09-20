@@ -130,7 +130,7 @@ super(nomorPlat, jamMasuk, menitMasuk, jamKeluar, menitKeluar);
 
 ### 🚗 Running Program Mobil
 
-<img width="202" height="155" alt="image" src="https://github.com/user-attachments/assets/f3e6ff18-c4a8-471c-88ef-764b3fff5915" />
+<img width="202" height="300" alt="image" src="https://github.com/user-attachments/assets/f3e6ff18-c4a8-471c-88ef-764b3fff5915" />
 
 Program menampilkan pilihan jenis kendaraan, yaitu Mobil dan Motor. Pengguna kemudian memasukkan nomor plat serta waktu masuk dan keluar yang digunakan untuk menghitung durasi parkir.
 
