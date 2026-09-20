@@ -76,15 +76,15 @@ Class ini juga memiliki method:
 
 **2. Mobil**
 
-Class `Mobil` merupakan **subclass** dari `Kendaraan`. Class ini memiliki tarif parkir sebesar **Rp5.000 per jam** dan method untuk menghitung biaya parkir mobil.
+Class `Mobil` merupakan subclass dari `Kendaraan`. Class ini memiliki tarif parkir sebesar Rp5.000 per jam dan method untuk menghitung biaya parkir mobil.
 
 **3. Motor**
 
-Class `Motor` merupakan **subclass** dari `Kendaraan`. Class ini memiliki tarif parkir sebesar **Rp2.000 per jam** dan method untuk menghitung biaya parkir motor.
+Class `Motor` merupakan subclass dari `Kendaraan`. Class ini memiliki tarif parkir sebesar Rp2.000 per jam dan method untuk menghitung biaya parkir motor.
 
 **4. SistemParkir**
 
-Class `SistemParkir` merupakan **main class** yang digunakan untuk menjalankan program. Class ini menerima input pengguna menggunakan `Scanner`, kemudian membuat objek `Mobil` atau `Motor` sesuai pilihan pengguna.
+Class `SistemParkir` merupakan main class yang digunakan untuk menjalankan program. Class ini menerima input pengguna menggunakan `Scanner`, kemudian membuat objek `Mobil` atau `Motor` sesuai pilihan pengguna.
 
 ---
 
