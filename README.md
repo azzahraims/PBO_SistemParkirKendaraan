@@ -1,6 +1,6 @@
 # 🚗 Sistem Manajemen Parkir Kendaraan
 
-Program **Sistem Manajemen Parkir Kendaraan** merupakan aplikasi berbasis **Command Line Interface (CLI)** yang dibuat menggunakan bahasa pemrograman **Java**. Program ini dibuat untuk memenuhi tugas individu mata kuliah **Pemrograman Berorientasi Objek**.
+Program Sistem Manajemen Parkir Kendaraan merupakan aplikasi berbasis Command Line Interface (CLI) yang dibuat menggunakan bahasa pemrograman Java. Program ini digunakan untuk mencatat data kendaraan, menghitung durasi parkir, serta menentukan biaya parkir berdasarkan jenis kendaraan dan lama waktu parkir.
 
 ---
 
@@ -16,7 +16,7 @@ Program **Sistem Manajemen Parkir Kendaraan** merupakan aplikasi berbasis **Comm
 
 ## 📌 Deskripsi Studi Kasus
 
-Tema yang dipilih adalah **Sistem Manajemen Parkir Kendaraan**. Program ini digunakan untuk mencatat dan menghitung biaya parkir berdasarkan jenis kendaraan dan lama waktu parkir. Pengguna dapat memilih dua jenis kendaraan, yaitu **Mobil** atau **Motor**. Setelah memilih jenis kendaraan, pengguna memasukkan:
+Tema yang dipilih adalah Sistem Manajemen Parkir Kendaraan. Program ini digunakan untuk mencatat dan menghitung biaya parkir berdasarkan jenis kendaraan dan lama waktu parkir. Pengguna dapat memilih dua jenis kendaraan, yaitu Mobil atau Motor. Setelah memilih jenis kendaraan, pengguna memasukkan:
 
 - Nomor plat kendaraan
 - Jam masuk
@@ -24,7 +24,7 @@ Tema yang dipilih adalah **Sistem Manajemen Parkir Kendaraan**. Program ini digu
 - Jam keluar
 - Menit keluar
 
-Program kemudian menghitung **durasi parkir** dan **total biaya parkir** secara otomatis.
+Program kemudian menghitung durasi parkir dan total biaya parkir secara otomatis.
 
 Tarif parkir yang digunakan:
 
@@ -33,7 +33,7 @@ Tarif parkir yang digunakan:
 | Mobil | Rp5.000/jam |
 | Motor | Rp2.000/jam |
 
-Apabila durasi parkir memiliki sisa menit, perhitungan biaya akan dibulatkan ke jam berikutnya. Contohnya, durasi parkir **1 jam 45 menit** dihitung menjadi **2 jam** untuk perhitungan biaya.
+Apabila durasi parkir memiliki sisa menit, perhitungan biaya akan dibulatkan ke jam berikutnya. Contohnya, durasi parkir 1 jam 45 menit dihitung menjadi 2 jam untuk perhitungan biaya.
 
 ---
 
@@ -67,7 +67,7 @@ Program terdiri dari empat class utama:
 
 **1. Kendaraan**
 
-Class `Kendaraan` berperan sebagai **superclass**. Class ini menyimpan data umum kendaraan seperti nomor plat, waktu masuk, dan waktu keluar.
+Class `Kendaraan` berperan sebagai superclass. Class ini menyimpan data umum kendaraan seperti nomor plat, waktu masuk, dan waktu keluar.
 
 Class ini juga memiliki method:
 
