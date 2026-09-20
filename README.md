@@ -131,16 +131,20 @@ super(nomorPlat, jamMasuk, menitMasuk, jamKeluar, menitKeluar);
 ### 🚗 Running Program Mobil
 
 <img width="202" height="155" alt="image" src="https://github.com/user-attachments/assets/f3e6ff18-c4a8-471c-88ef-764b3fff5915" />
+
 Program menampilkan pilihan jenis kendaraan, yaitu Mobil dan Motor. Pengguna kemudian memasukkan nomor plat serta waktu masuk dan keluar yang digunakan untuk menghitung durasi parkir.
 
 <img width="178" height="107" alt="image" src="https://github.com/user-attachments/assets/12c7904d-4e85-420e-9d42-8a8141d0fc70" />
+
 Program menampilkan hasil perhitungan berupa jenis kendaraan, nomor plat, waktu masuk dan keluar, durasi parkir, tarif per jam, serta total biaya. Pada contoh tersebut, Mobil parkir selama 1 jam 30 menit dan dikenakan biaya sebesar Rp10.000
 
 
 ### 🏍️ Running Program Motor
 
 <img width="199" height="161" alt="image" src="https://github.com/user-attachments/assets/73fcff76-a244-46be-9e05-d42e2b2fd88f" />
+
 Program menampilkan pilihan jenis kendaraan dan pengguna memilih 2 (Motor). Pengguna kemudian memasukkan nomor plat serta waktu masuk dan keluar yang digunakan untuk menghitung durasi parkir.
 
 <img width="175" height="106" alt="image" src="https://github.com/user-attachments/assets/946b757d-298f-4779-823f-0d7089a96493" />
+
 Program menampilkan hasil perhitungan berupa jenis kendaraan, nomor plat, waktu masuk dan keluar, durasi parkir, tarif per jam, serta total biaya. Pada contoh tersebut, Motor parkir selama 1 jam 45 menit dan dikenakan biaya sebesar Rp4.000.
