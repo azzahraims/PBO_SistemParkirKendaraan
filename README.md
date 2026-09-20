@@ -68,6 +68,16 @@ Class `SistemParkir` merupakan **main class** yang digunakan untuk menjalankan p
 
 ---
 
+## ⚙️ Alur Program
+
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/a8bb747d-bb72-4bee-a7a8-cee556fb3ad8" />
+
+```
+
+Jika pengguna memilih **1**, program akan membuat objek dari class `Mobil`.
+
+Jika pengguna memilih **2**, program akan membuat objek dari class `Motor`.
+
 ## 🔗 Penerapan Inheritance
 
 Konsep **inheritance** diterapkan dengan menjadikan class `Kendaraan` sebagai superclass, sedangkan class `Mobil` dan `Motor` sebagai subclass.
@@ -95,16 +105,6 @@ super(nomorPlat, jamMasuk, menitMasuk, jamKeluar, menitKeluar);
 `super()` digunakan untuk memanggil constructor milik superclass `Kendaraan`. Dengan inheritance, atribut dan method yang sama tidak perlu ditulis kembali pada setiap subclass.
 
 ---
-
-## ⚙️ Alur Program
-
-<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/a8bb747d-bb72-4bee-a7a8-cee556fb3ad8" />
-
-```
-
-Jika pengguna memilih **1**, program akan membuat objek dari class `Mobil`.
-
-Jika pengguna memilih **2**, program akan membuat objek dari class `Motor`.
 
 ---
 
