@@ -133,7 +133,7 @@ super(nomorPlat, jamMasuk, menitMasuk, jamKeluar, menitKeluar);
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/f3e6ff18-c4a8-471c-88ef-764b3fff5915"
-    width="500"
+    width="300"
     alt="Tampilan Input Data Kendaraan Mobil">
 </p>
 
